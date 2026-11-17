@@ -1,5 +1,5 @@
-import Nav from '../src/-component/Nav'
-import Footer from '../src/-component/Footer'
+import Nav from '../-component/Nav'
+import Footer from '../-component/Footer'
 import {Outlet} from 'react-router-dom'
 function Layout() {
   return <>

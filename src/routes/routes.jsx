@@ -1,9 +1,9 @@
 import { createBrowserRouter } from "react-router-dom";
-import Layout from "../../outlet/Layout";
+import Layout from "../Outlet/Layout";
 import Home from "../HOME/Home";
 import About from "../About/About";
 import Blog from "../Blog/Blog";
-import Arcti from "../arcti";
+import Arcti from "../Arcti";
 
 const router = createBrowserRouter(
   [
